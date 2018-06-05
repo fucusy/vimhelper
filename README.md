@@ -3,4 +3,7 @@
 
 ## Usage
 
-In vim editor, select lines in vim, and enter `:` , you will see `:'<,'>`,  and then type `!crandom.py` or other script name you want
+1. In vim editor, select lines in vim, 
+2. and enter `:` , you will see `:'<,'>`,  
+3. and then type `!crandom.py` or other script name you want
+4. tap enter key, you will see the result in your screen
